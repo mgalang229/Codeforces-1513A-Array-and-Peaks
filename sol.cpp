@@ -37,7 +37,7 @@ int main() {
 			for (int i = 0; i < n; i++) {
 				if (i % 2 == 1 && k > 0) {
 					// print 'temp' - 1 in every odd position in the sequence
-					// while checking if it reached in number of 'k' occurrences
+					// while checking if it reached the number of 'k' occurrences
 					cout << temp--;
 					k--;
 				}  else {
