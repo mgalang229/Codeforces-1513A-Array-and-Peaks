@@ -41,7 +41,7 @@ int main() {
 					cout << temp--;
 					k--;
 				}  else {
-					// print the other values from 1 to 'n' that weren't part in the IF-condition
+					// print the other values from 1 to 'n'
 					cout << other_values++;
 				}
 				cout << " ";
